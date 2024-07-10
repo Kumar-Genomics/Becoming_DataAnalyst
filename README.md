@@ -1,15 +1,17 @@
 # A series of analytical works to becoming a Data Analyst in 2024
 
 ## Prominent Projects for Data Analyst Skills Development
+
 ### 1. Customer Segmentation Analysis
 Objective: Segment customers based on purchasing behavior to identify distinct customer groups.
 Skills Covered: Data cleaning, EDA, clustering, data visualization.
 Tools: Python (Pandas, Scikit-learn), Tableau.
-Details:
-Data Cleaning: Clean and preprocess the customer data.
-EDA: Explore and analyze key features influencing customer behavior.
-Clustering: Apply K-means clustering to segment customers.
+#### Details:
+Data Cleaning: Clean and preprocess the customer data. \
+EDA: Explore and analyze key features influencing customer behavior. \
+Clustering: Apply K-means clustering to segment customers. \
 Visualization: Use Tableau to visualize the customer segments and their characteristics.
+
 ### 2. Sales Forecasting
 Objective: Predict future sales using historical sales data.
 Skills Covered: Time series analysis, forecasting, data visualization.
