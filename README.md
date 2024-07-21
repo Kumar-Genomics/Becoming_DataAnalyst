@@ -12,6 +12,20 @@ EDA: Explore and analyze key features influencing customer behavior. \
 Clustering: Apply K-means clustering to segment customers. \
 Visualization: Use Tableau to visualize the customer segments and their characteristics.
 
+# Let's look at the different types of Customer Segmentation:
+
+1. Demographic Segmentation.
+2. Behavioral Segmentation.
+3. Geographic Segmentation.
+4. Psychographic Segmentation.
+5. Technographic Segmentation.
+6. Needs-based Segmentation.
+7. Value-based Segmentation.
+
+
+
+
+
 ### 2. Sales Forecasting
 Objective: Predict future sales using historical sales data.\
 Skills Covered: Time series analysis, forecasting, data visualization.\
