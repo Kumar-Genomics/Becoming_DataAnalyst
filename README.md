@@ -21,10 +21,7 @@ Visualization: Use Tableau to visualize the customer segments and their characte
 5. Technographic Segmentation.
 6. Needs-based Segmentation.
 7. Value-based Segmentation.
-
-
-
-
+======================================================================================
 
 ### 2. Sales Forecasting
 Objective: Predict future sales using historical sales data.\
